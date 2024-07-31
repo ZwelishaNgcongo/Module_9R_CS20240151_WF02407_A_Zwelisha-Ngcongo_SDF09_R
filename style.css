@@ -1,0 +1,39 @@
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url(img/casino-background-design_1314-70.jpg);
+    background-position:center;
+    background-repeat: no-repeat; /* when background size set at cover img would dupluicate */
+    
+    background-size:cover;
+    text-align: center;
+    -webkit-text-stroke-width: 0.5px;
+    -webkit-text-stroke-color: black; 
+    color:rgb(62, 3, 3);
+    font-weight: bold;
+}
+
+h1{
+    color: goldenrod;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+}
+#message-el {
+    font-style: italic;
+    
+}
+
+button {
+    color: #016f32;
+    width:  150px;
+    background: goldenrod;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+    margin-bottom: 2px;
+    margin-top: 2px;
+    -webkit-text-stroke-width: 0px;
+    -webkit-text-stroke-color:none;
+    
+}
